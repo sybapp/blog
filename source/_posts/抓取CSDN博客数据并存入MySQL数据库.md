@@ -165,7 +165,7 @@ def insertdb(database, dict):
         host='localhost',
         port=3306,
         user='root',
-        password='sybappe377551',
+        password='123456',
         db='{}'.format(database)
     )
     title = dict['标题']
