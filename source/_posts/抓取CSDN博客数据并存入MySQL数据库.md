@@ -130,7 +130,7 @@ def create_db(database):
         host='localhost',
         port=3306,
         user='root',
-        password='******',
+        password='123456',
     )
     cursor = db.cursor()
     cursor.execute('SELECT VERSION()')
@@ -145,7 +145,7 @@ def create_table(database):
         host='localhost',
         port=3306,
         user='root',
-        password='sybappe377551',
+        password='123456',
         db='{}'.format(database)
     )
     cursor = db.cursor()
