@@ -82,7 +82,7 @@ tvs = [
 
 #### templates
 
-##### base.html
+#####	base.html
 
 父模板
 
@@ -302,7 +302,7 @@ tvs = [
 
 存有评分的星星图标
 
-	##### 	rate_gray.png
+##### 	rate_gray.png
 
 ##### 	rate_half.png
 
